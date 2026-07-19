@@ -1,0 +1,23 @@
+Supernote Editor
+Copyright 2026 troussos
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+This product is unaffiliated with and not endorsed by Ratta / Supernote.
+
+------------------------------------------------------------------------------
+Third-party components
+------------------------------------------------------------------------------
+
+Format knowledge for the Supernote .note file format derives from:
+  * jya-dev/supernote-tool — Copyright (c) jya — Apache License 2.0
+    https://github.com/jya-dev/supernote-tool
+
+Test files in tests/fixtures/ are redistributed unmodified from:
+  * allenporter/supernote — Apache License 2.0
+    https://github.com/allenporter/supernote
+  * nelinory/SupernoteSharp — Copyright (c) 2023-2024 Chavdar Kostov —
+    MIT License
+    https://github.com/nelinory/SupernoteSharp
+
+See tests/fixtures/ATTRIBUTION.md for per-file attribution.

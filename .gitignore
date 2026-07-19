@@ -1,0 +1,26 @@
+# Virtual environment (contains machine-specific absolute paths)
+.venv/
+venv/
+env/
+
+# Python bytecode / caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Editor working files written next to .note files
+*.note.bak-*
+*.note.snedit.json
+*.note.sn-tmp
+.*.sn-tmp
+
+# OS / editor cruft
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+.idea/
+.vscode/
